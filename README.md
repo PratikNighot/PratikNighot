@@ -1,3 +1,5 @@
+![Pratik Nighot - Banner](https://raw.githubusercontent.com/PratikNighot/PratikNighot/main/banner.png)
+
 ## 👋 Hi, I'm Pratik Nighot!
 
 > 💡 "Building scalable, intelligent systems that think, act, and evolve."
