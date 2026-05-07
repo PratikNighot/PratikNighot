@@ -1,4 +1,3 @@
----
 ## 👋 Hi, I'm Pratik Nighot!
 
 > 💡 "Building scalable, intelligent systems that think, act, and evolve."
