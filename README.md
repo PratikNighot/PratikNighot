@@ -69,6 +69,14 @@ Real-time market data ingestion, ML ensemble (LSTM + XGBoost + Transformer), aut
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikNighot/PratikNighot/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikNighot/PratikNighot/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/PratikNighot/PratikNighot/output/github-snake.svg" />
+</picture>
+
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-nighot-37654582)
