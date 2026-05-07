@@ -1,4 +1,4 @@
-![Pratik Nighot Banner](https://raw.githubusercontent.com/PratikNighot/PratikNighot/main/banner.jpg)
+![Pratik Nighot - Banner](https://raw.githubusercontent.com/PratikNighot/PratikNighot/main/banner.jpg)
 
 ## 👋 Hi, I'm Pratik Nighot!
 
@@ -46,10 +46,18 @@ Datadog • Prometheus • ELK • System Design (HLD/LLD) • Event-Driven Arch
 ## 📊 GitHub Stats
 
 ![Pratik Nighot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikNighot&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNighot&layout=compact&theme=tokyonight)
-
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikNighot&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikNighot/PratikNighot/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikNighot/PratikNighot/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/PratikNighot/PratikNighot/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -65,14 +73,6 @@ Real-time market data ingestion, ML ensemble (LSTM + XGBoost + Transformer), aut
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikNighot/PratikNighot/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikNighot/PratikNighot/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/PratikNighot/PratikNighot/output/github-snake.svg" />
-</picture>
-
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-nighot-37654582)
@@ -80,4 +80,4 @@ Real-time market data ingestion, ML ensemble (LSTM + XGBoost + Transformer), aut
 
 ---
 
-**Thanks for visiting!** ✨ Feel free to explore my repos or reach out for collaborations on **Backend Systems** or **Agentic AI**.
+**Thanks for visiting!** ✨ Feel free to explore my repositories or reach out for collaborations on **Backend Systems** or **Agentic AI**.
