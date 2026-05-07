@@ -1,4 +1,4 @@
-![Pratik Nighot - Banner](https://raw.githubusercontent.com/PratikNighot/PratikNighot/main/banner.png)
+![Pratik Nighot Banner](https://raw.githubusercontent.com/PratikNighot/PratikNighot/main/banner.jpg)
 
 ## 👋 Hi, I'm Pratik Nighot!
 
