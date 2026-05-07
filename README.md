@@ -76,6 +76,7 @@ Real-time market data ingestion, ML ensemble (LSTM + XGBoost + Transformer), aut
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-nighot-37654582)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nighot_pratik)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratiknighot52@gmail.com)
 
 ---
