@@ -53,12 +53,6 @@ Datadog • Prometheus • ELK • System Design (HLD/LLD) • Event-Driven Arch
 
 ---
 
-## 🐍 Contribution Snake
-
-![Contribution Snake](https://github.com/PratikNighot/PratikNighot/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🔥 Featured Projects
 
 **War Room — AI Interview Prep Dashboard**  
